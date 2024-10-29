@@ -1,0 +1,8 @@
+In your own words, explain the differences between while loops and recursion.
+
+A while loop will run until it executes its duties and recursion will continue to call itself and run until it finds the problem or whats needed.
+
+Provide your reasoning to support the following claim: recursion is not a substitute for while loops. Support your reasoning with evidence from your lab and the notes.
+
+recursion uses a ton of memory so it will shut its self off after so many times of running, it can also be harder to work with than while loops. It also can be harder to control.
+
